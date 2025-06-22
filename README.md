@@ -1,2 +1,2 @@
 # frutas-machine-learning
-Modelo de arvore para frutas em python
+Aprendendo machine learning com modelo de árvore de decisão em Python, utilizando frutas como dados
